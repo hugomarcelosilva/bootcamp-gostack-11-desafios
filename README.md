@@ -13,6 +13,7 @@
 - [07 - Fundamentos do ReactJS](https://github.com/hugo-marcelo/bootcamp-gostack-11-desafios/tree/master/gofinances-reactjs)
 - [08 - Fundamentos do React Native](https://github.com/hugo-marcelo/bootcamp-gostack-11-desafios/tree/master/gomarketplace-react-native)
 - [09 - Relacionamentos com banco de dados no Node.js](https://github.com/hugo-marcelo/bootcamp-gostack-11-desafios/tree/master/gomarketplace-nodejs)
+- [10 - CRUD no ReactJS](https://github.com/hugo-marcelo/bootcamp-gostack-11-desafios/tree/master/gorestaurant-reactjs)
 
 ---
 
