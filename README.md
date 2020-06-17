@@ -14,6 +14,7 @@
 - [08 - Fundamentos do React Native](https://github.com/hugo-marcelo/bootcamp-gostack-11-desafios/tree/master/gomarketplace-react-native)
 - [09 - Relacionamentos com banco de dados no Node.js](https://github.com/hugo-marcelo/bootcamp-gostack-11-desafios/tree/master/gomarketplace-nodejs)
 - [10 - CRUD no ReactJS](https://github.com/hugo-marcelo/bootcamp-gostack-11-desafios/tree/master/gorestaurant-reactjs)
+- [11 - Navegação e filtros no React Native](https://github.com/hugo-marcelo/bootcamp-gostack-11-desafios/tree/master/gorestaurant-react-native)
 
 ---
 
